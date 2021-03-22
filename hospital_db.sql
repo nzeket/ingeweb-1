@@ -21,7 +21,7 @@ CREATE TABLE `admins` (
 -- Table structure for table `doctors`
 --
 CREATE TABLE `doctors` (
-  `id` int(11) NOT NULL,
+  `id` int(11) NOT NULL  ,
   `name` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
   `password` varchar(255) NOT NULL,

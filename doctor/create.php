@@ -31,13 +31,13 @@
                             <label for="exampleInputName1">Gender</label>
                             <div class="radio">
                                 <label>
-                                <input type="radio" name="gender" id="optionsRadios1" value="0" checked="">
+                                <input type="radio" name="gender" id="optionsRadios1" value="0" >
                                 Male
                                 </label>
                             </div>
                             <div class="radio">
                                 <label>
-                                <input type="radio" name="gender" id="optionsRadios2" value="1">
+                                <input type="radio" name="gender" id="optionsRadios2" value="1" checked="">
                                 Female
                                 </label>
                             </div>
